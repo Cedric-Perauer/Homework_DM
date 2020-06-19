@@ -7,7 +7,7 @@ The rosbag file is for Python3, if you are using Python2 you can run [this](http
 python2 bag_to_csv.py
 ``
 
-To install required python packages for rosbag conversion : 
+The following packages might  : 
 
 ``
 pip install -r requirements.txt
