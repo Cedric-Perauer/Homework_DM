@@ -2,7 +2,7 @@
 
 ## Rosbag Conversion 
 
-The rosbag file conversion is for Python3, if you are using Python2 you can run [this](https://www.clearpathrobotics.com/assets/guides/kinetic/ros/Converting%20ROS%20bag%20to%20CSV.html) one with : 
+Using Python2 you can run the following for conversion (this repo also contains a python 3 version for future purposes since Python2 is no longer supported)  : 
 ``
 python2 bag_to_csv.py
 ``
